@@ -29,7 +29,6 @@ I'm an engineering student passionate about Artificial Intelligence, Machine Lea
 
 ### Tools
 - Git & GitHub
-- Power BI
 - Vivado
 - Vitis HLS
 - VS Code
