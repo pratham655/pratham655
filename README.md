@@ -1,81 +1,215 @@
+
 # Hi 👋, I'm Pratham S
 
-### Engineering Student | AI & ML Enthusiast | Aspiring Data Analyst & Researcher
+### AI/ML Enthusiast | Full-Stack Developer | Builder
 
-I'm an engineering student passionate about Artificial Intelligence, Machine Learning, Data Analytics, and emerging technologies. I enjoy building practical projects, exploring new ideas, and using technology to solve real-world problems.
+Building intelligent systems, practical AI applications, and full-stack
+solutions that solve real-world problems.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-s-a41b33310)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratham655)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathams.galaxies@gmail.com)
 
-## 🚀 Interests
-
-- Artificial Intelligence & Machine Learning
-- Data Analytics
-- Data Science
-- VLSI Design
-- Full-Stack Development
-- Research & Innovation
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# About Me
 
-### Languages
-- Python
-- Java
-- C
-- JavaScript
-- MATLAB
-- Verilog HDL
+### Focus
 
-### Tools
-- Git & GitHub
-- Vivado
-- Vitis HLS
-- VS Code
+- Building **AI-powered applications** beyond simple prototypes
+- Working with **Generative AI, LLM Applications, RAG, and AI Agents**
+- Developing **full-stack applications** using modern frontend and backend technologies
+- Exploring **Machine Learning and Computer Vision**
+- Building practical solutions for **real-world problems**
+- Participating in **hackathons, innovation challenges, and technical projects**
 
----
+### What I Enjoy Building
 
-## 📂 Featured Projects
-
-### 🏏 CrickBakes
-A cricket information platform that provides player information and career details using Wikipedia data.
-
-### 🧠 AI-ML-WORKSHOP
-A collection of Machine Learning notebooks covering ANN, CNN, NLP, Regression, and Classification.
-
-### 🤖 Offline AI Assistant
-An AI-powered assistant built to provide intelligent responses and useful functionalities.
-
-### 📊 AI Career Platform
-A platform designed to help learners explore AI-related careers, skills, and learning resources.
-
-### 🔒 IP Threat Tracker
-A cybersecurity-focused project for monitoring and analyzing IP-related threats.
-
-### 🏨 Hotel Pixi
-A hotel management and booking platform.
-
-### ✈️ TripNest
-A travel planning and management application.
+- Intelligent AI applications
+- Full-stack web applications
+- AI-powered automation systems
+- Data-driven applications
+- Machine Learning solutions
+- Experimental and innovative projects
 
 ---
 
-## 🎯 Goals
+# Current Focus
 
-- Become skilled in AI and Data Analytics
-- Explore research opportunities
-- Build impactful technology solutions
-- Contribute to innovative projects
-- Continuously learn and grow
+| **Building** | **Exploring** | **Learning** |
+| :---: | :---: | :---: |
+| AI Applications | Generative AI | ML Engineering |
+| Full-Stack Apps | LLM Applications | Production AI |
+| AI Agents | RAG Systems | Model Integration |
+| Real-World Solutions | Computer Vision | AI System Design |
 
----
-
-## 📫 Connect With Me
-
-- GitHub: github.com/pratham655
 
 ---
 
-### 💡 Motto
+# Tech Stack
 
-"Stay curious. Keep building. Never stop learning."
+### 💻 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React
+* Next.js
+* Tailwind CSS
+* Framer Motion
+
+---
+
+### 🖥️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
+</p>
+
+* Python
+* FastAPI
+* REST APIs
+* API Integration
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,opencv,sklearn" />
+</p>
+
+* OpenCV
+* Generative AI
+* LLM Applications
+* RAG
+* AI Agents
+* Prompt Engineering
+* Model Integration
+
+---
+
+### 🗄️ Databases & Backend Services
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,supabase" />
+</p>
+
+* MongoDB
+* Supabase
+
+---
+
+### 🛠️ Developer Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vercel" />
+</p>
+
+* Git
+* GitHub
+* VS Code
+* Docker
+* Postman
+* Antigravity
+* Vercel
+
+---
+
+### 📊 Data & Scientific Tools
+
+* MATLAB
+* LTspice
+
+---
+
+### ☁️ Deployment & Infrastructure
+
+* Vercel
+* Docker
+* FastAPI Deployment
+* Supabase
+* GitHub
+
+---
+
+# Areas of Interest
+
+| **Artificial Intelligence** | **Software Development** | **Data & Technology** |     **Innovation**     |
+| :-------------------------: | :----------------------: | :-------------------: | :--------------------: |
+|        Generative AI        |  Full-Stack Development  |      Data Science     |       Hackathons       |
+|       LLM Applications      |   Frontend Development   |    Machine Learning   |    Product Building    |
+|          AI Agents          |    Backend Development   |    Computer Vision    |     Problem Solving    |
+|         RAG Systems         |      API Development     |  Data-Driven Systems  | Research & Exploration |
+|    Intelligent Automation   |      AI Applications     |   Model Integration   |      Real-World AI     |
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratham655&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham655&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham655&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# GitHub Activity
+
+<div align="center">
+
+[![Pratham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratham655\&theme=tokyo-night\&hide_border=true)](https://github.com/pratham655)
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratham%20S-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pratham-s-a41b33310)
+
+[![GitHub](https://img.shields.io/badge/GitHub-pratham655-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pratham655)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:prathams.galaxies@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Building • Learning • Experimenting • Creating 
+
+*"Turning ideas into intelligent systems."*
+
+</div>
+```
+
+### One thing, bro
+
+Your GitHub currently says **“Engineering student passionate about AI, Machine Learning, Data Analytics, and VLSI”** and has 27 repositories, so the new README is a deliberate upgrade toward the **AI/ML + builder** identity you wanted. ([GitHub][1])
+
+**You can literally copy everything inside that code block → open `pratham655/pratham655` → edit `README.md` → paste → commit.**
+
+[1]: https://github.com/pratham655 "pratham655 (Pratham S) · GitHub"
+
