@@ -50,7 +50,7 @@ solutions that solve real-world problems.
 
 # Tech Stack
 
-### 💻 Frontend Development
+### Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
@@ -67,7 +67,7 @@ solutions that solve real-world problems.
 
 ---
 
-### 🖥️ Backend Development
+### Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
@@ -75,12 +75,11 @@ solutions that solve real-world problems.
 
 * Python
 * FastAPI
-* REST APIs
 * API Integration
 
 ---
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,opencv,sklearn" />
@@ -96,7 +95,7 @@ solutions that solve real-world problems.
 
 ---
 
-### 🗄️ Databases & Backend Services
+### Databases & Backend Services
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,supabase" />
@@ -107,23 +106,21 @@ solutions that solve real-world problems.
 
 ---
 
-### 🛠️ Developer Tools & Platforms
+### Developer Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity,vercel" />
 </p>
 
 * Git
 * GitHub
 * VS Code
-* Docker
-* Postman
 * Antigravity
 * Vercel
 
 ---
 
-### 📊 Data & Scientific Tools
+### Data & Scientific Tools
 
 * MATLAB
 * LTspice
@@ -133,7 +130,6 @@ solutions that solve real-world problems.
 ### ☁️ Deployment & Infrastructure
 
 * Vercel
-* Docker
 * FastAPI Deployment
 * Supabase
 * GitHub
@@ -205,11 +201,5 @@ solutions that solve real-world problems.
 </div>
 ```
 
-### One thing, bro
 
-Your GitHub currently says **“Engineering student passionate about AI, Machine Learning, Data Analytics, and VLSI”** and has 27 repositories, so the new README is a deliberate upgrade toward the **AI/ML + builder** identity you wanted. ([GitHub][1])
-
-**You can literally copy everything inside that code block → open `pratham655/pratham655` → edit `README.md` → paste → commit.**
-
-[1]: https://github.com/pratham655 "pratham655 (Pratham S) · GitHub"
 
