@@ -109,7 +109,7 @@ solutions that solve real-world problems.
 ### Developer Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 * Git
