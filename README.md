@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Pratham S
+# Hi , I'm Pratham S
 
 ### AI/ML Enthusiast | Full-Stack Developer | Builder
 
