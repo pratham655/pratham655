@@ -127,7 +127,7 @@ solutions that solve real-world problems.
 
 ---
 
-### ☁️ Deployment & Infrastructure
+###  Deployment & Infrastructure
 
 * Vercel
 * FastAPI Deployment
